@@ -12,12 +12,13 @@
         android:layout_height="91dp"
         android:layout_gravity="end|bottom"
         android:layout_margin="16dp"
-        android:layout_marginEnd="16dp"
-        android:layout_marginBottom="16dp"
+        android:layout_marginEnd="4dp"
+        android:layout_marginBottom="4dp"
         android:contentDescription="submit"
-        android:src="@color/black"
+        android:src="@drawable/ic_baseline_zoom_out_map_24"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:maxImageSize="40dp"
         tools:ignore="MissingConstraints" />
 
 
